@@ -1,0 +1,13 @@
+feature,mi_score
+Fraud_Label,0.6309564931529282
+Failed_Transaction_Count_7d,0.2867160456999629
+Risk_Score,0.20082327225952312
+Is_Weekend,0.004784179596768912
+Daily_Transaction_Count,0.003148451539691788
+Card_Age,0.0018980689871592737
+Transaction_Distance,0.001435059428444685
+Previous_Fraudulent_Activity,0.0008738695053394085
+IP_Address_Flag,0.0
+Account_Balance,0.0
+Transaction_Amount,0.0
+Avg_Transaction_Amount_7d,0.0
